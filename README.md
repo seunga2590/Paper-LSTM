@@ -3,7 +3,7 @@
 #### 논문 작성 기간 : 2020.09.01 ~ 2022.07.31
 #### 사용 기술 
     | API crawling
-Time_series : <img src="https://img.shields.io/badge/ARIMA-61DAFB?style=flat&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/RNN-6#FFB399?style=flat&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/LSTM-D27D32?style=flat&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/CNN-LSTM-FFAAAF?style=flat&logo=React&logoColor=white"/>
+Time_series : <img src="https://img.shields.io/badge/ARIMA-61DAFB?style=flat&logo=ARIMA&logoColor=white"/> <img src="https://img.shields.io/badge/RNN-6#FFB399?style=flat&logo=RNN&logoColor=white"/> <img src="https://img.shields.io/badge/LSTM-D27D32?style=flat&logo=LSTM&logoColor=white"/> <img src="https://img.shields.io/badge/CNN-LSTM-FFAAAF?style=flat&logo=React&logoColor=white"/>
 
     | XAI : Permutation Importance, SHAP
 #### "미세먼지 예측"의 큰 주제를 시작
